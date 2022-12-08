@@ -1,8 +1,8 @@
 #  𓊈𒆜 SWIT-SSH-PRO 𒆜𓊉
-👑 Script ssh VIP para gerenciamento de contas.
+👑 Script ssh VIP para gerenciamento de contas.<br/>
 📶 Script Híbrido, suporta o painel ssh e painel web na mesma vps (Precisa ter uma boa configuração).
 
-⚠ <b>SISTEMAS SUPORTADOS:</b></br>
+👉 <b>SISTEMAS SUPORTADOS:</b></br>
 👉 <b>(UBUNTU 18)</b></br>
 👉 <b>(DEBIA 9)</b></br>
 
