@@ -8,6 +8,7 @@
 
 ⚠ <b>VPS PARA PAINEL WEB: https://www.avirahost.com.br/aff.php?aff=108 ⚠</b></br>
 
+
 # 𓊈𒆜 KEY DE INSTALAÇÃO! 𒆜𓊉
 🔑 Entre em contato: (Telegram: https://t.me/swittecnologia) ou (WhatsApp: https://wa.me/5564996711369)
 </br></br>
