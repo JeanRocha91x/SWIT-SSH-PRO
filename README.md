@@ -13,7 +13,9 @@
 </br></br>
 
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
+![Screenshot_55](https://user-images.githubusercontent.com/105602625/206527794-8f44c199-c8b7-437a-9a59-0406dd1ecad5.jpg)
 
+![Screenshot_56](https://user-images.githubusercontent.com/105602625/206527797-857d0ec5-07f9-4511-883b-209383ff2b9e.jpg)
 
 # 𓊈𒆜 CONTATO: 𒆜𓊉
 ```
